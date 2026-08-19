@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-bod {
+    background-color: lightpink;
+    font-family: 'verdana','DejaVu sans',sans-serif;
+}
+#no-2 {
+    color: blue;
+    font-size: 36px;
+}
+.no-3.odd-bod {
+    font-size: 24px;
+}
+#no-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
